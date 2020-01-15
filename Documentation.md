@@ -25,13 +25,13 @@ Low-sulphur marine fuels will still account for ~250k deaths and ~6.4 M childh
 
 
 ## Development
-Gathering inspiration (week 1) 
-Sketching (week 2)
-Digital Sketching (week 3)
-Prototyping (week 4)
-Physically designing (week 5)
-Screen Printing (week 6)
-Coding (week 7)
+<li> Gathering inspiration (week 1) 
+<li> Sketching (week 2)
+<li> Digital Sketching (week 3)
+<li> Prototyping (week 4)
+<li> Physically designing (week 5)
+<li> Screen Printing (week 6)
+<li> Coding (week 7)
 
 ## Thought Process
 
