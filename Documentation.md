@@ -17,10 +17,6 @@ https://business.un.org/en/entities/13
 They also create between 2 and 3 percent of the world’s total greenhouse gas emissions such as carbon dioxide, contributing to global warming and extreme weather effects.
 <br>
 <br>
-Please use the sharing tools found via the share button at the top or side of articles. Copying articles to share with others is a breach of FT.com T&Cs and Copyright Policy. Email licensing@ft.com to buy additional rights. Subscribers may share up to 10 or 20 articles per month using the gift article service. More information can be found here.
-https://www.ft.com/content/642b6b62-70ab-11e9-bf5c-6eeb837566c5
-<br>
-<br>
 Mr Corbett has calculated that 200 of the largest ships produce as much sulphur as all the world’s cars. The International Council on Clean Transportation found that while road vehicles make up 64 per cent of transport-attributable pollution-related deaths, ships out at sea still account for 16 per cent. 
 <br>
 <br>
